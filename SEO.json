@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "ambulance-dispatch-system",
+  "description": "Ambulance Dispatch System — Healthcare Logistics Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Ambulance dispatch for fleet status, emergency calls, hospital handoff, and billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "healthcare-logistics",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/ambulance-dispatch-system"
+}
